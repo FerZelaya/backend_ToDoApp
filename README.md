@@ -5,6 +5,7 @@
 
 - Provide necessary actions to frontend app
 - Connect directly to mongoDB Atlas cluster to store all user and to dos data
+- Protect all to dos routes with JWT middleware
 
 ### Techs
 
